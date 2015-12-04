@@ -1,0 +1,5 @@
+Drive to Dropbox
+index -> driveselector -> drivestore -> drive -> (Dropbox)putFile -> index
+
+Dropbox to Drive
+index -> dropchooser -> dropstore -> (Dropbox)getFile -> drive -> index
